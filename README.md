@@ -12,4 +12,5 @@ I want to document here my experiences with ARIES, or K-Lab as it is now called.
 ## using K-Lab:
 * I start by uploading some data [here](https://github.com/ninbrm/ARIES/blob/master/data.md)
 * I then try to "declare" it in my code, fail!
+* Useful help can be found [here](https://github.com/ninbrm/ARIES/files/54189/kLAB_help.pdf)
 
