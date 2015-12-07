@@ -9,4 +9,4 @@ I start by uploading some data [here](https://github.com/ninbrm/ARIES/blob/maste
 ## installation
 1. You download ARIES [here](https://integratedmodelling.org/collaboration/#/download)
 2. Then you follow the instructions [here](https://integratedmodelling.org/confluence/display/LSD/Obtaining+and+installing+the+k.LAB+software)
-3. I installed some git code from [here]()
+3. I installed the default code from bitbucket as explained [here](https://github.com/ninbrm/ARIES/files/54150/ThinklabInstallationGuide.pdf) in point 2.16 (note that most of this installation process has become obsolete).
