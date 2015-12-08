@@ -8,7 +8,9 @@ This is a [Markdown](https://help.github.com/articles/markdown-basics/) based do
 3. I installed the default code from bitbucket as explained [here](https://github.com/ninbrm/ARIES/files/54150/ThinklabInstallationGuide.pdf) in point 2.16 (note that most of this installation process has become obsolete).
 
 ## using K-Lab:
-* I start by uploading some data [here](https://github.com/NINAnor/ARIES/blob/master/data.md)
-* I then try to "declare" it in my code, fail!
+1. I start by uploading some data [here](https://github.com/NINAnor/ARIES/blob/master/data.md)
+2. I then "declared" it in my project.
+
+
 * Useful help can be found [here](https://github.com/NINAnor/ARIES/files/54189/kLAB_help.pdf)
 
